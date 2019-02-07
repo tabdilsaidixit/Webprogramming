@@ -1,0 +1,94 @@
+body {
+ font-family: sans-serif;
+ background-image: url("background_image.jpg");
+ background-size: cover;
+}
+
+#myImageDiv
+{
+	background: #5F9EA0;
+	text-align: center;
+}
+
+#myImageDiv1
+{
+	background: #BDD6D9;
+	text-align: center;
+}
+
+#myImageDiv2
+{
+	background: #257781;
+	text-align: center;
+	color: white;
+}
+
+#myImage
+{
+	height: 200px;
+	width: 150px;
+}
+.Heading
+{
+	text-align: center;
+	color: #4682B4;
+}
+
+.h1Colored{
+	color: #4682B4;
+}
+
+table {
+  width: 80%;
+  text-align: center;
+  border: 0;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+.ul_Navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li_Navbar {
+  float: left;
+}
+
+.li_a_Navbar {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.li_a_Navbar:hover {
+  background-color: #111;
+}
+
+.BoldAndRed
+{
+	color: red;
+	font-weight:bold;
+}
+
+a:hover { 
+  background-color: yellow;
+}
+.active
+{
+  background: #7A8282;
+}
