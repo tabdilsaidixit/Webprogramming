@@ -1,0 +1,99 @@
+ body {
+     background-color:#FFCC00;
+     font-family: Georgia,Garamond,Sans-serif;
+     color:#000000;
+}
+ .Headings{
+     background-color:#F0F0F0;
+     color:#A4A400;
+     text-align:center;
+}
+ .Navigation {
+     display:block;
+     background-color:#F0F0F0;
+     color:blue;
+     padding:5px 5px;
+     text-align:center;
+     text-decoration:none;
+     display:inline-block;
+}
+ #ERFG {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     height: 350px;
+     width: 450px;
+}
+ .CenterTable {
+     width: 80%;
+     text-align: center;
+     border: 0;
+     margin-left:auto;
+     margin-right:auto;
+}
+ table.tb1 {
+     margin-top:20px;
+     font-family: arial, sans-serif;
+     border-collapse: collapse;
+     width: 70%;
+     background-color:#CC9933;
+     color:white;
+}
+ caption{
+     background-color: #F0F0F0;
+     color:#A4A400;
+     font-weight:bold;
+     text-align: left;
+     font-family: sans-serif;
+}
+ p{
+     font-weight:bold;
+}
+ p.class2 {
+     font-weight:normal;
+}
+span.class2 {
+     font-weight:normal;
+}
+ table.tb2 {
+     margin-top:20px;
+     font-family: arial, sans-serif;
+     border-collapse: collapse;
+     width: 30%;
+     background-color:#CC9933;
+     color:white;
+}
+ td{
+     border: 2px solid white;
+     text-align: center;
+     padding: 5px;
+}
+ th {
+     background-color:#003366;
+     border: 2px solid white;
+     text-align: center;
+     padding: 5px;
+     color:white;
+}
+ .spanclass {
+     text-align: right;
+}
+ h1,h2{
+     background-color:#F0F0F0;
+     color:#A4A400;
+}
+ h1,h2{
+     text-align: center;
+}
+ h3,h4{
+     text-align: left;
+}
+ .whitebg {
+     background-color: #FFFFD0;
+     margin-left: auto;
+     margin-right: auto;
+     width: 75%;
+     padding: 25px;
+}
+ 

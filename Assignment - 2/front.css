@@ -1,0 +1,15 @@
+h1,h2,h3,h4{
+     letter-spacing: 3px;
+}
+ ul.b {
+     list-style-image: url('checkmark.png');
+}
+ ol.d {
+     list-style-type: lower-alpha;
+}
+ .Recipe2Bg {
+     background-image: url("backgroundimg.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
